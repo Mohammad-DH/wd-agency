@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-projects">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="projects" clip-path="url(#clip-projects)">
+    <text id="projects-2" data-name="projects" transform="translate(405.5 363.5)" stroke="#707070" stroke-width="1" font-size="350" font-family="Bulgabia"><tspan x="0" y="266">PROJECT&apos;s</tspan></text>
+  </g>
+</svg>

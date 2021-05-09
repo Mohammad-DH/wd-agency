@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-wd_agency">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="wd_agency" data-name="wd agency" clip-path="url(#clip-wd_agency)">
+    <text id="WD" transform="translate(532 363)" fill="#707070" font-size="300" font-family="Aquarelle"><tspan x="0" y="0">WD</tspan></text>
+    <text id="_Agency_" data-name=" Agency
+" transform="translate(385 385)" fill="#707070" font-size="325" font-family="Aquarelle"><tspan x="0" y="394" xml:space="preserve"> Agency</tspan></text>
+  </g>
+</svg>
